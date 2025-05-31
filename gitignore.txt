@@ -1,0 +1,20 @@
+# ملفات بايثون
+*.pyc
+__pycache__/
+db.sqlite3
+
+# بيئة افتراضية
+venv/
+env/
+
+# إعدادات Django static/media
+staticfiles/
+media/
+
+# ملفات النظام
+.DS_Store
+Thumbs.db
+
+# ملفات إعدادات IDE
+.vscode/
+.idea/

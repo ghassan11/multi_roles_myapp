@@ -1,0 +1,51 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: ar\n"
+
+#: core/forms.py
+msgid "Password"
+msgstr "كلمة المرور"
+
+msgid "Repeat password"
+msgstr "أعد كتابة كلمة المرور"
+
+msgid "Role"
+msgstr "الدور"
+
+msgid "Department"
+msgstr "القسم"
+
+msgid "Passwords do not match."
+msgstr "كلمتا المرور غير متطابقتين."
+
+#: core/views.py
+msgid "Register"
+msgstr "تسجيل"
+
+msgid "Register a new user"
+msgstr "تسجيل مستخدم جديد"
+
+msgid "Registration Successful"
+msgstr "تم التسجيل بنجاح"
+
+msgid "Your registration was successful!"
+msgstr "تم تسجيلك بنجاح!"
+
+msgid "Return to home"
+msgstr "العودة للرئيسية"
+
+msgid "Admin"
+msgstr "مدير النظام"
+
+msgid "Manager"
+msgstr "مدير"
+
+msgid "Department Manager"
+msgstr "مدير قسم"
+
+msgid "User"
+msgstr "مستخدم"
+
+msgid "Department Name"
+msgstr "اسم القسم"
